@@ -114,8 +114,9 @@ Please follow these steps for submission:
    - Summary of what you built
    - Solution rationale & user value
    - A short demo video
+6. Fill [this form](https://coda.io/form/Type-B-Digital-Take-Home-assessment-submission_dU8ZJTHWnjv) to officially submit your work.
 
-> ⚠️ Submissions without a properly completed PR template or demo video may not be considered.
+> ⚠️ Submissions may not be considered if instructions are not followed properly
 
 ---
 
